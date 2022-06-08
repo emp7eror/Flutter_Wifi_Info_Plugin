@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fc18e2c-aad0-41e3-b761-f267f80cb9d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3.3_WQVGA_API_R" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPlatformVersion</find>
+      <find>hash</find>
+      <find>tx</find>
+      <find>getWifiDetails</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dvWejcxklJtTK4XWSdVFbXWw6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.example/lib/main.dart">
+    <configuration name="getWifiDetails" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testName" value="getWifiDetails" />
+      <option name="testFile" value="$PROJECT_DIR$/test/wifi_info_plugin_test.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in wifi_info_plugin_test.dart" type="FlutterTestConfigType" factoryName="Flutter Test" temporary="true" nameIsGenerated="true">
+      <option name="testFile" value="$PROJECT_DIR$/test/wifi_info_plugin_test.dart" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.example/lib/main.dart" />
+      <item itemvalue="Flutter Test.tests in wifi_info_plugin_test.dart" />
+      <item itemvalue="Flutter Test.getWifiDetails" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter Test.getWifiDetails" />
+        <item itemvalue="Flutter Test.tests in wifi_info_plugin_test.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc18e2c-aad0-41e3-b761-f267f80cb9d0" name="Default Changelist" comment="" />
+      <created>1560633832223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560633832223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="tests_in_wifi_info_plugin_test_dart - 2019.06.15 at 22h 42m 38s.xml">
+      <configuration name="tests in wifi_info_plugin_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_wifi_info_plugin_test_dart - 2019.06.15 at 22h 54m 36s.xml">
+      <configuration name="tests in wifi_info_plugin_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_wifi_info_plugin_test_dart - 2019.06.15 at 22h 55m 20s.xml">
+      <configuration name="tests in wifi_info_plugin_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_wifi_info_plugin_test_dart - 2019.06.15 at 22h 55m 26s.xml">
+      <configuration name="tests in wifi_info_plugin_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="tests_in_wifi_info_plugin_test_dart - 2019.06.15 at 22h 55m 52s.xml">
+      <configuration name="tests in wifi_info_plugin_test.dart" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="getWifiDetails - 2019.06.15 at 22h 57m 59s.xml">
+      <configuration name="getWifiDetails" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="getWifiDetails - 2019.06.15 at 23h 53m 09s.xml">
+      <configuration name="getWifiDetails" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="getWifiDetails - 2019.06.15 at 23h 53m 44s.xml">
+      <configuration name="getWifiDetails" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="getWifiDetails - 2019.06.15 at 23h 54m 32s.xml">
+      <configuration name="getWifiDetails" configurationId="FlutterTestConfigType" />
+    </history-entry>
+    <history-entry file="getWifiDetails - 2019.06.15 at 23h 54m 38s.xml">
+      <configuration name="getWifiDetails" configurationId="FlutterTestConfigType" />
+    </history-entry>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/wifi_info_plugin.dart</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/example/lib/main.dart</url>
+          <line>43</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
